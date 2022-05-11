@@ -1,0 +1,76 @@
+[General]
+Name=Halloween
+FileName=C:\devinfo.net\consoul\demo\Halloween\consoul_halloween.accdb
+BuildFileName=C:\devinfo.net\consoul\demo\Halloween\consoul_halloween.DLL
+HelpFile=
+HelpContextID=0
+Description=Halloween Consoul Demo
+Mode=0
+Protection=0
+Saved=Faux
+Type=100
+ConditionalCompilationArgs=MSACCESS = -1
+
+[References]
+Count=6
+Reference_1={000204EF-0000-0000-C000-000000000046}
+Reference_2={4AFFC9A0-5F99-101B-AF4E-00AA003F0F07}
+Reference_3={00020430-0000-0000-C000-000000000046}
+Reference_4={4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}
+Reference_5={2A75196C-D9EB-4129-B803-931327F72D5C}
+Reference_6={0002E157-0000-0000-C000-000000000046}
+
+
+[{000204EF-0000-0000-C000-000000000046}]
+BuiltIn=Vrai
+FullPath=C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA7.1\VBE7.DLL
+Guid={000204EF-0000-0000-C000-000000000046}
+IsBroken=Faux
+Major=4
+Minor=2
+Name=VBA
+
+[{4AFFC9A0-5F99-101B-AF4E-00AA003F0F07}]
+BuiltIn=Vrai
+FullPath=C:\Program Files (x86)\Microsoft Office\root\Office16\MSACC.OLB
+Guid={4AFFC9A0-5F99-101B-AF4E-00AA003F0F07}
+IsBroken=Faux
+Major=9
+Minor=0
+Name=Access
+
+[{00020430-0000-0000-C000-000000000046}]
+BuiltIn=Faux
+FullPath=C:\Windows\SysWOW64\stdole2.tlb
+Guid={00020430-0000-0000-C000-000000000046}
+IsBroken=Faux
+Major=2
+Minor=0
+Name=stdole
+
+[{4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}]
+BuiltIn=Faux
+FullPath=C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE16\ACEDAO.DLL
+Guid={4AC9E1DA-5BAD-4AC7-86E3-24F4CDCECA28}
+IsBroken=Faux
+Major=12
+Minor=0
+Name=DAO
+
+[{2A75196C-D9EB-4129-B803-931327F72D5C}]
+BuiltIn=Faux
+FullPath=C:\Program Files (x86)\Common Files\System\ado\msado28.tlb
+Guid={2A75196C-D9EB-4129-B803-931327F72D5C}
+IsBroken=Faux
+Major=2
+Minor=8
+Name=ADODB
+
+[{0002E157-0000-0000-C000-000000000046}]
+BuiltIn=Faux
+FullPath=C:\Program Files (x86)\Common Files\Microsoft Shared\VBA\VBA6\VBE6EXT.OLB
+Guid={0002E157-0000-0000-C000-000000000046}
+IsBroken=Faux
+Major=5
+Minor=3
+Name=VBIDE
